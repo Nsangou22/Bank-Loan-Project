@@ -47,9 +47,6 @@ The dashboard provides insights such as:
 3. **Trend Analysis** – Month-over-month changes in applications, funded amounts, and amounts received.  
 4. **Borrower Demographics** – Insights into loan terms, purposes, and borrower profiles.   
 
-### Dashboard Preview:
-![Dashboard Screenshot](powerbi/screenshots/dashboard.png)
-
 ---
 
 ## ⚙️ How to Run
