@@ -52,8 +52,8 @@ The dashboard provides insights such as:
 ## ⚙️ How to Run
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/<your-username>/bank_loan_project.git
-   cd bank_loan_project ```
+   git clone https://github.com/Nsangou22/Bank-Loan-Project.git
+   cd Bank-Loan-Project ```
    
 2. Install dependencies (if using Python notebook):
    '' pip install -r requirements.txt ''
